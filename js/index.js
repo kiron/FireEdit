@@ -2,11 +2,12 @@ $(function() {
 
     // Initialize Firebase configuration
     var config = {
-        apiKey: "AIzaSyAsFK9oDTtsCdqrHAfQKs8_TmNtBOoIkBY",
-        authDomain: "emma-ea74d.firebaseapp.com",
-        databaseURL: "https://emma-ea74d.firebaseio.com",
-        storageBucket: "emma-ea74d.appspot.com",
-        messagingSenderId: "95300595436"
+        apiKey: "AIzaSyA-jc3CgT0j1_Z78Q1jUnL2_oAfhgUfxZY",
+        authDomain: "kiron-fire-edit.firebaseapp.com",
+        databaseURL: "https://kiron-fire-edit.firebaseio.com",
+        projectId: "kiron-fire-edit",
+        storageBucket: "kiron-fire-edit.appspot.com",
+        messagingSenderId: "9994417704"
     };
     firebase.initializeApp(config);
     
